@@ -6,7 +6,7 @@ public abstract class SoalUjian {
     
     protected String soal;
     protected Jawaban jawaban;
-
+    // test
     public SoalUjian(String soal, Jawaban jawaban) {
         this.soal = soal;
         this.jawaban = jawaban;
